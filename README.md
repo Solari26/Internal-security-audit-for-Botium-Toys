@@ -12,23 +12,22 @@
  8. [Conclusion](#Conclusion)
 
  # Introduction <a name="introduction">
- As part of my cybersecurity portfolio and Google's Cybersecurity Professional Certificate on Coursera, I have conducted an internal security audit assessment for Botium Toys, a fictitious toy company. The primary objective of this audit was to evaluate the cybersecurity program of Botium Toys and align it with industry standards and best practices. The audit aimed to identify and provide mitigation recommendations for high-risk vulnerabilities and develop an overall strategy to enhance the organization's security posture. The audit team documented their findings, created remediation plans, and communicated the results to stakeholders.
+ I completed an internal security audit review for Botium Toys, a made-up toy company, as part of my cybersecurity portfolio and Google's Cybersecurity Professional Certificate on Coursera. Examining Botium Toys' cybersecurity program and making sure it followed industry best practices and standards was the main objective of this audit. Finding and fixing high-risk vulnerabilities was one of the audit's main objectives, along with creating a comprehensive plan to strengthen the organization's security posture. The audit team created corrective measures, recorded their findings, and informed stakeholders of the outcomes.
 
- Scenario:
+ 
  # Scenario <a name="scenario">
  Botium Toys is a small U.S. toy company with a growing online presence, serving customers both domestically and internationally. The company's IT department is facing increasing pressure to support the expanding online market. The IT manager recognized the need for an internal IT audit to ensure business continuity, compliance, and security as the company grows. The audit was seen as an opportunity to strengthen the company's infrastructure, identify potential risks and threats to critical assets, and ensure compliance with online payment and European Union (E.U.) business regulations.
 
- # Audit Goals:
+ 
  # Audit Goals <a name="Audit-Goals">
  The key goals of the internal IT audit for Botium Toys were:
 
- 1. Adherence to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
+ 1. Comply with the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
  @@ -34,8 +45,11 @@ Part 2:
- 2. Make detailed notes of the findings obtained during the audit process.
- 3. Consider the most effective way to concisely summarize the recommendations for stakeholders.
- 4. Prepare a concise format and communicate the findings and recommendations to stakeholders.
- Controls assessment
- Current assets
+ 2. Take thorough notes on the findings collected during the audit.
+ 3. Consider the most efficient approach to summarize the recommendations for stakeholders.
+ 4. Create a simple framework and share the findings and recommendations with stakeholders.
+
 
  # Controls assessment <a name="control-assessment">
 
@@ -179,21 +178,21 @@
 
  # Summary/Recommendations:
  ### Summary/Recommendations:
- Addressing the critical findings related to PCI and GDPR compliance is essential, given Botium Toys' acceptance of online payments and expansion into international markets, including the European Union. Utilizing SOC1 and SOC2 guidance to develop policies and procedures will help in adapting the concept of least permissions and achieving compliance.
+ Addressing the important findings about PCI and GDPR compliance is critical, considering Botium Toys' acceptance of online payments and its development into international markets, particularly the European Union. Using SOC1 and SOC2 recommendations to build policies and procedures will assist in implementing the notion of least privilege and attaining compliance.
 
- Additionally, implementing disaster recovery plans and backups will ensure business continuity in the face of potential incidents. Integrating IDS and AV software will aid in intrusion detection and mitigation. Legacy systems requiring manual monitoring and intervention should be closely monitored.
+ Furthermore, having disaster recovery plans and backups will ensure that business operations continue in the event of an occurrence. Integrating IDS and AV software will help with intrusion detection and mitigation. Legacy systems that need manual monitoring and intervention should be closely monitored.
 
- For securing assets at the physical location, implementing locks, CCTV, and a time-controlled safe is highly recommended. Adequate lighting and signage indicating alarm service providers will further enhance the security posture.
+ Locks, CCTV, and a time-controlled safe are all highly recommended for physically securing assets. Adequate illumination and signage showing alarm service providers will improve the overall security posture
 
  # Conclusion:
  # Conclusion <a name="conclusion">
- I hope this comprehensive security audit write-up proves valuable and enlightening. I am open to constructive feedback or suggestions for improvement. It has been a challenging yet rewarding experience, putting my knowledge and skills to the test.
+ I hope you find this thorough security audit report informative and useful. I welcome recommendations for improvement or constructive criticism. Testing my knowledge and abilities has been an enlightening and demanding experience.
 
  # Lessons Learned:
  # Lessons Learned
- I have realized the importance of conciseness and precision in presenting findings in the stakeholder's memorandum. Additionally, I have improved my ability to explain how the System and Organizations Controls standard relates to various aspects of organizational security and risk assessment beyond financial compliance during the audit process.
+ I now understand how crucial it is to communicate findings in the stakeholder's memorandum with clarity and conciseness. Furthermore, I've become more adept at elucidating how the System and Organizations Controls standard connects to different facets of organizational security and risk assessment outside of financial compliance when doing audits.
 
- Thank you for your attention, and I am available to address any further questions or concerns.
+ I appreciate your time and attention, and I'm here to help with any more queries or worries.
 
  Best regards,
 
