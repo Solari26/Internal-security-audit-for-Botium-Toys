@@ -127,7 +127,9 @@
 
  # Stakeholder Memorandum <a name="stakeholder-Memorandum">
  To: IT Manager, Stakeholders
+ 
  From: Ernest Uzowuru
+ 
  Date: 25/03/2024
  
  Dear Colleagues,
@@ -153,7 +155,7 @@
  We recommend immediate action to address the following critical findings:
 
  1. Implementation of controls for the principle of least privilege and separation of duties.
- @@ -158,33 +160,27 @@ We recommend immediate action to address the following critical findings:
+ We recommend immediate action to address the following critical findings:
  5. Implementation of a password management system, antivirus software, and manual monitoring for legacy systems.
  6. Enhanced physical controls through CCTV surveillance, locks, and locking cabinets.
 
